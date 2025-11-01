@@ -16,8 +16,6 @@ RL environment is simulated using Aspen Plus. The Aspen Plus flowsheet functions
 # Case Study
 The case study investigates the synthesis of benzene (BZN) via the thermal dealkylation of toluene (TOL) with hydrogen:
 <div align="center">
-  C₇H₈ + H₂ ⇌ C₆H₆ + CH₄
-  <br>
-  <br>
+  <img src="literature/image/reaction.png" alt="Reaction: Toluene + Hydrogen <=> Benzene + Methane" width="300"/>
 </div>
 The primary objective was to enhance the generalizability of existing RL-based process design methodologies. This was achieved by expanding the agent's functional capabilities and refining the reward function. A comparative analysis demonstrated that proposed method yielded a more economically viable process than conventional techniques. These findings validate the utility of RL as a powerful tool for autonomous chemical process design.
